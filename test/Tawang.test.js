@@ -72,7 +72,7 @@ describe('Tawang', () => {
         },
         plugins: [
           new Tawang({
-            serverHost: 'tawang.eu.dev.monkapps.com',
+            serverHost: 'tawang.herokuapp.com',
           }),
         ],
         mode: 'development',
